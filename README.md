@@ -1,16 +1,16 @@
-# untitled4
+# Проект с видео и скроллом Студентка Группы 3исп9-21 Голобурдина
+## Grid View c карточками товаров автомобилей
+![image](https://github.com/Xmmmmm000/video/assets/156674182/f326b5a4-063b-453f-9c52-1b5b57bf2dc2)
+![image](https://github.com/Xmmmmm000/video/assets/156674182/cae18cc6-0af8-4e4e-a67f-5e9cd2da6d08)
+Карточка товаров со скроллом (с отображенеием все плохо я знаю ,извините пожалуйста)
+![image](https://github.com/Xmmmmm000/video/assets/156674182/dc7acc5e-132e-4c9c-84f4-7e094788885f)
+описание скролится
+![image](https://github.com/Xmmmmm000/video/assets/156674182/fd71e58a-5e3b-4518-905a-01a3e3cb4c7d)
+Видео 
+![image](https://github.com/Xmmmmm000/video/assets/156674182/54832310-1ca8-4867-b116-0701693b82c4)
 
-A new Flutter project.
+Извините ,что так поздно !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
